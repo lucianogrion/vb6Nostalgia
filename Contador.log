@@ -1,0 +1,29 @@
+Línea 14: la clase MSACAL.Calendar del control Calendar1 no era una clase de control cargada.
+Línea 70: la clase MSComDlg.CommonDialog del control commonDialog no era una clase de control cargada.
+Línea 20: el nombre de la propiedad _Version de Calendar1 no es válido.
+Línea 21: el nombre de la propiedad _ExtentX de Calendar1 no es válido.
+Línea 22: el nombre de la propiedad _ExtentY de Calendar1 no es válido.
+Línea 23: el nombre de la propiedad _StockProps de Calendar1 no es válido.
+Línea 25: el nombre de la propiedad Year de Calendar1 no es válido.
+Línea 26: el nombre de la propiedad Month de Calendar1 no es válido.
+Línea 27: el nombre de la propiedad Day de Calendar1 no es válido.
+Línea 28: el nombre de la propiedad DayLength de Calendar1 no es válido.
+Línea 29: el nombre de la propiedad MonthLength de Calendar1 no es válido.
+Línea 30: el nombre de la propiedad DayFontColor de Calendar1 no es válido.
+Línea 31: el nombre de la propiedad FirstDay de Calendar1 no es válido.
+Línea 32: el nombre de la propiedad GridCellEffect de Calendar1 no es válido.
+Línea 33: el nombre de la propiedad GridFontColor de Calendar1 no es válido.
+Línea 34: el nombre de la propiedad GridLinesColor de Calendar1 no es válido.
+Línea 35: el nombre de la propiedad ShowDateSelectors de Calendar1 no es válido.
+Línea 36: el nombre de la propiedad ShowDays de Calendar1 no es válido.
+Línea 37: el nombre de la propiedad ShowHorizontalGrid de Calendar1 no es válido.
+Línea 38: el nombre de la propiedad ShowTitle de Calendar1 no es válido.
+Línea 39: el nombre de la propiedad ShowVerticalGrid de Calendar1 no es válido.
+Línea 40: el nombre de la propiedad TitleFontColor de Calendar1 no es válido.
+Línea 41: el nombre de la propiedad ValueIsNull de Calendar1 no es válido.
+Línea 50: el nombre de la propiedad DayFont de Calendar1 no es válido.
+Línea 59: el nombre de la propiedad GridFont de Calendar1 no es válido.
+Línea 68: el nombre de la propiedad TitleFont de Calendar1 no es válido.
+Línea 73: el nombre de la propiedad _ExtentX de commonDialog no es válido.
+Línea 74: el nombre de la propiedad _ExtentY de commonDialog no es válido.
+Línea 75: el nombre de la propiedad _Version de commonDialog no es válido.
