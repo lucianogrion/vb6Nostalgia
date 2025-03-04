@@ -1,0 +1,1 @@
+vb6.exe "Proyecto1.vbp" /runexit

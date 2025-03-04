@@ -1,0 +1,8 @@
+frmMain = 22, 29, 803, 646, C, 22, 29, 803, 646, C
+frmFacturacion = 96, 313, 877, 930, C, 44, 58, 825, 675, C
+frmConciliacion = 167, 87, 948, 704, C, 86, 50, 867, 667, C
+clsModulo = 198, 261, 979, 878, C
+frmImportacionExcel = 100, 90, 881, 707, C, 44, 58, 825, 675, C
+clsNegocio = 22, 29, 803, 646, C
+frmImportacionFacturacion = 110, 145, 890, 762, Z, 88, 116, 868, 733, C
+frmConciliacionTutor = 220, 290, 1001, 907, C, 44, 58, 912, 887, C
